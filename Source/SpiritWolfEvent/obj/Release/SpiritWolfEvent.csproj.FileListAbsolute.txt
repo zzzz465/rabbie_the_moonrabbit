@@ -1,0 +1,37 @@
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\SpiritWolfEvent.dll
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\SpiritWolfEvent.pdb
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\Assembly-CSharp.dll
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\UnityEngine.dll
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\Assembly-CSharp-firstpass.dll
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\NAudio.dll
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\NVorbis.dll
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\bin\Release\UnityEngine.xml
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\obj\Release\SpiritWolfEvent.csprojResolveAssemblyReference.cache
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\obj\Release\SpiritWolfEvent.dll
+c:\users\tjx\documents\visual studio 2017\Projects\SpiritWolfEvent\SpiritWolfEvent\obj\Release\SpiritWolfEvent.pdb
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\SpiritWolfEvent.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\SpiritWolfEvent.pdb
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\Assembly-CSharp.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\UnityEngine.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\TextMeshPro-1.0.55.56.0b11.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\Assembly-CSharp-firstpass.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\NAudio.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\NVorbis.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\bin\Release\UnityEngine.UI.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.csprojResolveAssemblyReference.cache
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.dll
+E:\Steam2\steamapps\common\RimWorld\Mods\AnimalCollabProjectA17-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\SpiritWolfEvent.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\SpiritWolfEvent.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\Assembly-CSharp.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\UnityEngine.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\TextMeshPro-1.0.55.56.0b11.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\Assembly-CSharp-firstpass.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\NAudio.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\NVorbis.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\bin\Release\UnityEngine.UI.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.csprojAssemblyReference.cache
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.csproj.CoreCompileInputs.cache
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.csproj.CopyComplete
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.dll
+F:\Steam\steamapps\common\RimWorld\Mods\AnimalCollabProject-master\Source\SpiritWolfEvent\obj\Release\SpiritWolfEvent.pdb
